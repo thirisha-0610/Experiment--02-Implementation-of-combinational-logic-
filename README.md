@@ -56,7 +56,8 @@ RegisterNumber:  23005642
 
 ## RTL
 ## Truth table
-![Uploading Screenshot 2023-12-25 201202.png…]()
+![Screenshot 2023-12-25 201202](https://github.com/thirisha-0610/Experiment--02-Implementation-of-combinational-logic-/assets/149347494/762f138e-5ce1-4766-b30e-74b1342e4a3f)
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
