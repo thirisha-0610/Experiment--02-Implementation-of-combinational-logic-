@@ -45,7 +45,9 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ![Screenshot 2023-12-25 200918](https://github.com/thirisha-0610/Experiment--02-Implementation-of-combinational-logic-/assets/149347494/1cbb14ca-6359-441d-9542-b07904dca471)
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+
 Developed by: Thirisha A
+
 RegisterNumber:  23005642
 */
 ## RTL realization
